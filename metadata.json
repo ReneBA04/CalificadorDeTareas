@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Academic Text Analyzer",
+  "description": "An AI-powered tool to analyze and grade academic documents like essays and reports. Upload a paper and a rubric in PDF format, and the AI will provide a detailed evaluation with scores and constructive feedback based on the rubric's criteria.",
+  "requestFramePermissions": []
+}
